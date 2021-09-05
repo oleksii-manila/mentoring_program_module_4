@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Oleksii_Manila\\Source\\Repos\\mentoring_program_module_4\\Expressions.Task3.E3SQueryProvider\\Expressions.Task3.E3SQueryProvider.csproj": {}
+    "C:\\Users\\Oleksii_Manila\\source\\repos\\mentoring_program_module_4\\Expressions.Task3.E3SQueryProvider\\Expressions.Task3.E3SQueryProvider.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Oleksii_Manila\\Source\\Repos\\mentoring_program_module_4\\Expressions.Task3.E3SQueryProvider\\Expressions.Task3.E3SQueryProvider.csproj": {
+    "C:\\Users\\Oleksii_Manila\\source\\repos\\mentoring_program_module_4\\Expressions.Task3.E3SQueryProvider\\Expressions.Task3.E3SQueryProvider.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Oleksii_Manila\\Source\\Repos\\mentoring_program_module_4\\Expressions.Task3.E3SQueryProvider\\Expressions.Task3.E3SQueryProvider.csproj",
+        "projectUniqueName": "C:\\Users\\Oleksii_Manila\\source\\repos\\mentoring_program_module_4\\Expressions.Task3.E3SQueryProvider\\Expressions.Task3.E3SQueryProvider.csproj",
         "projectName": "Expressions.Task3.E3SQueryProvider",
-        "projectPath": "C:\\Users\\Oleksii_Manila\\Source\\Repos\\mentoring_program_module_4\\Expressions.Task3.E3SQueryProvider\\Expressions.Task3.E3SQueryProvider.csproj",
+        "projectPath": "C:\\Users\\Oleksii_Manila\\source\\repos\\mentoring_program_module_4\\Expressions.Task3.E3SQueryProvider\\Expressions.Task3.E3SQueryProvider.csproj",
         "packagesPath": "C:\\Users\\Oleksii_Manila\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Oleksii_Manila\\Source\\Repos\\mentoring_program_module_4\\Expressions.Task3.E3SQueryProvider\\obj\\",
+        "outputPath": "C:\\Users\\Oleksii_Manila\\source\\repos\\mentoring_program_module_4\\Expressions.Task3.E3SQueryProvider\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Oleksii_Manila\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,7 +52,7 @@
             },
             "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[13.0.1, )"
+              "version": "[12.0.2, )"
             }
           },
           "imports": [
@@ -65,7 +65,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.206\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
